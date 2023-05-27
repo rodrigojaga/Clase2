@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Informacion">Bienvenido al curso</string>
+    <string name="Informacion2">Estoy aprendiendo a programar en Android Studio </string>
+</resources>
